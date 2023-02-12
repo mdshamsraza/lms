@@ -1,0 +1,58 @@
+body {
+    background: lightgray;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.class-titel {
+    padding: 2px;
+}
+
+.class-content {
+    padding: 4px;
+}
+
+.all-element {
+    margin: 15vh;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
+    background: rgb(236, 228, 228);
+    padding-block-end: 10px;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.class-button {
+    padding-top: 4vh;
+    border-radius: 50px;
+}
+
+.class-button a {
+    background: rgb(55, 88, 68);
+    padding: 12px 40px;
+    text-decoration: none;
+    color: #fff;
+    letter-spacing: 1.5px;
+}
+
+.class-social {
+    padding-top: 3vh;
+}
+
+.class-social a {
+    margin: 1vh;
+}
+
+.class-image-section {
+    padding-left: 450px;
+}
+
+.outer-footer {
+    text-align: center;
+    padding: 30px;
+    margin-top: 135px;
+    background: #790075;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
